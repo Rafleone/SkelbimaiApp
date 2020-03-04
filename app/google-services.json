@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "179595104518",
+    "firebase_url": "https://skelbimasapp.firebaseio.com",
+    "project_id": "skelbimasapp",
+    "storage_bucket": "skelbimasapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179595104518:android:1b8fcc7cf8fc9b1a9d4e87",
+        "android_client_info": {
+          "package_name": "skelbimas.lt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179595104518-mn8gs5qplk9mm55tui6groa2fn5i0m4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "skelbimas.lt",
+            "certificate_hash": "06a6731dbb76baf5fe3d60dbb23f79f4ce26d101"
+          }
+        },
+        {
+          "client_id": "179595104518-ul8die4qak0llijjpm5sg972c09qj055.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPC790fWBVrhJ8oPZaG5V6y3QBIus3HTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179595104518-ul8die4qak0llijjpm5sg972c09qj055.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
